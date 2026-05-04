@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "/dashboard.html" }
+    { "source": "/", "destination": "/jose-marcos-advocacia.html" }
   ],
   "headers": [
     {
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "source": "/dashboard.html",
+      "source": "/jose-marcos-advocacia.html",
       "headers": [
         { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
       ]
